@@ -2,6 +2,10 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
+## DEPRECATED
+
+see [strip-chromium-logs](https://www.npmjs.com/package/strip-chromium-logs)
+
 Strips Electron/Chromium logs from stderr.
 
 Experimental.
