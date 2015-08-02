@@ -1,6 +1,6 @@
 {
   "name": "electron-clean-logging",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "strips Electron/Chromium logs from stderr",
   "main": "index.js",
   "license": "MIT",
